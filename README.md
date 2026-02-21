@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hafizhinar
 - 👀 I’m interested in Fullstack / Web Development with golang node.js, vue.js
-- 🌱 I’m currently learning go language and vue.js
-- 💞️ I’m looking to collaborate on project and learning pattern with golang and vue.js
+- 🌱 I’m currently learning for backend stack: go language, rust and java frontend stack: vuejs, nuxtjs and nextjs
+- 💞️ I’m looking to collaborate on project and learning pattern with golang, ruby, nextjs, nuxtjs and vue.js
 - 📫 How to reach me email me on my email arrosyiid.hafizhin@gmail.com
 
 <!---
